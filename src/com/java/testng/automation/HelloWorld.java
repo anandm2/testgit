@@ -9,6 +9,7 @@ public class HelloWorld {
 	public void testng21()
 	{
 		System.out.println("first program! Hello world");
+		System.out.println("ading send program! Hello world");
 	}
 
 }
