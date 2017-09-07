@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2017-08-23T20:19:18Z" finished-at="2017-08-23T20:19:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2017-08-23T20:19:18Z" finished-at="2017-08-23T20:19:18Z">
+      <class name="com.java.testng.automation.HelloWorld2">
+        <test-method status="PASS" signature="testng21()[pri:0, instance:com.java.testng.automation.HelloWorld2@5056dfcb]" name="testng21" duration-ms="1" started-at="2017-08-23T16:19:18Z" finished-at="2017-08-23T16:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testng21 -->
+      </class> <!-- com.java.testng.automation.HelloWorld2 -->
+      <class name="com.java.testng.automation.HelloWorld">
+        <test-method status="PASS" signature="testng()[pri:0, instance:com.java.testng.automation.HelloWorld@b97c004]" name="testng" duration-ms="7" started-at="2017-08-23T16:19:18Z" finished-at="2017-08-23T16:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testng -->
+      </class> <!-- com.java.testng.automation.HelloWorld -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
