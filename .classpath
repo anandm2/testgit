@@ -36,5 +36,7 @@
 	<classpathentry exported="true" kind="lib" path="C:/anand/selenium-testing-all-automation/selenium-java-3.4.0/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/anand/selenium-testing-all-automation/selenium-java-3.4.0/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry exported="true" kind="var" path="TESTNG_HOME"/>
+	<classpathentry kind="var" path="M2_REPO"/>
+	<classpathentry kind="lib" path="C:/anand/selenium-testing-all-automation/selenium-server-standalone-3.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
